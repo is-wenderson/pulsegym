@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
-
 class EvoIntegrationConfig(AppConfig):
-    name = 'evo_integration'
+    default_auto_field = 'django.db.models.BigAutoField'
+    name = 'apps.evo_integration'  
