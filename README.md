@@ -1,4 +1,5 @@
 PulseGym - Sistema de Gestão e NPS
+
 Bem-vindo ao repositório do PulseGym. Esta é uma solução projetada para academias, focada em monitorar o atendimento, gerenciar a jornada de treinos via integração com catracas (EVO), balancear a carga do salão em tempo real e disparar pesquisas de satisfação (NPS) automatizadas no WhatsApp.
 
 🏗️ Estrutura Geral do Projeto (Raiz)
