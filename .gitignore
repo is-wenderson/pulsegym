@@ -1,10 +1,10 @@
-# Python 
-venv/ 
-__pycache__/ 
-*.py[cod] 
-.env 
-# Django 
-db.sqlite3 
-# Node 
-node_modules/ 
-dist/ 
+# Ambientes Virtuais
+venv/
+env/
+
+# Arquivos do Python
+__pycache__/
+*.pyc
+
+# Banco de dados local (Opcional, mas recomendado não subir)
+db.sqlite3
